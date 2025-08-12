@@ -5,6 +5,8 @@ def if_s(a1):
     elif s=="Help":
         return "hlp"
     return s
+###Error unknown error
+###Error this class isn't what I need
 class sign:
     def __init__(self,item):
         self.item=item
